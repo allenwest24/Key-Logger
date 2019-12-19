@@ -12,5 +12,13 @@ The following info will be the instructions on how to set up the workspace neede
 - Now we can start making the keylogger.
   - In pycharm create new project. (or just use vim for all of this specifying that it is a .py file except for the .txt output file)
   - Create new file in pyinput and call it your key logger
+- We need a module that will help us grab keys from the target machine.
+  - Open a terminal. 
+  - Type the following: pip install pyinput.
+  - Consider installing pip3 as well.
+  - Now we have our libraries and prerequisites.
+  - import the library in your main file.
+- The rest of the instructions will be commented into the keylogger itself. If any excessive information is needed it will be written below:
+  - 
   
   
