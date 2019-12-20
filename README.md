@@ -19,6 +19,9 @@ The following info will be the instructions on how to set up the workspace neede
   - Now we have our libraries and prerequisites.
   - import the library in your main file.
 - The rest of the instructions will be commented into the keylogger itself. If any excessive information is needed it will be written below:
+  - Note: if target machine is set in different language, the symbols will look different. We handle this problem in SECOND TEST with the try: using "utf-8"
+  - In order to stop it, in terminal type: killall python
+  
   - 
   
   
