@@ -1,6 +1,8 @@
 # Key-Logger
 Making a key logger tool while taking the ethical hacking course.
 
+!!!This keylogger works if you download it and all the libraries it requires, however, it is very simple to package this into a .exe file. I want to stay out of jail so I didn't do that.!!! 
+
 The following info will be the instructions on how to set up the workspace needed to make this yourself, as well as how it works and other concepts:
 - This is for Windows. We need to install python. 
   - Google and download Sublime Text.
@@ -21,7 +23,6 @@ The following info will be the instructions on how to set up the workspace neede
 - The rest of the instructions will be commented into the keylogger itself. If any excessive information is needed it will be written below:
   - Note: if target machine is set in different language, the symbols will look different. We handle this problem in SECOND TEST with the try: using "utf-8"
   - In order to stop it, in terminal type: killall python
-  
-  - 
+  - Due to the way the libraries work, this is going to be in python2
   
   
